@@ -1,4 +1,4 @@
-import yuanhezhao_code_check  # importing code_check file
+import Assign2_code_check  # importing code_check file
 
 
 def quit_check(input_check):  # check if user enter 0
