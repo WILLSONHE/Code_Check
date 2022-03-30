@@ -1,7 +1,3 @@
-# Name: Yuanhe Zhao
-# Student Number:
-# Assignment 2: Codes and Check Digits
-
 import yuanhezhao_code_check  # importing code_check file
 
 
